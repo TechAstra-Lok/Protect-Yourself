@@ -1,0 +1,6 @@
+timestamp,src_ip,dst_ip,protocol,src_port,dst_port,bytes_in,bytes_out,packets_in,packets_out,flow_duration_ms,flow_packets_s,flow_bytes_s,is_urgent,is_fin,is_syn,is_rst,is_push,is_ack,is_uneq,is_no,is_mix,is_srv_rto,is_client_error,is_srv_error,is_srv_count_response,is_srv_count_error,attack_type
+2026-02-17 12:00:01,192.168.1.200,192.168.1.10,TCP,54380,443,450,380,15,12,8000,1.875,0.106,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,BENIGN
+2026-02-17 12:00:02,192.168.1.201,192.168.1.10,UDP,12345,53,88,76,1,1,12000,0.083,0.013,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,BENIGN
+2026-02-17 12:00:03,192.168.1.202,192.168.1.10,ICMP,0,0,84,0,1,0,200,5.0,420.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,BENIGN
+2026-02-17 12:00:04,192.168.1.203,192.168.1.10,TCP,54381,80,320,280,8,7,15000,0.533,0.04,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,BENIGN
+2026-02-17

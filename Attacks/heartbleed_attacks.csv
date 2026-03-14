@@ -1,0 +1,4 @@
+timestamp,src_ip,dst_ip,protocol,src_port,dst_port,bytes_in,bytes_out,packets_in,packets_out,flow_duration_ms,flow_packets_s,flow_bytes_s,is_urgent,is_fin,is_syn,is_rst,is_push,is_ack,is_uneq,is_no,is_mix,is_srv_rto,is_client_error,is_srv_error,is_srv_count_response,is_srv_count_error,attack_type
+2026-02-17 11:45:01,10.0.0.56,192.168.1.10,TCP,54370,443,16500,14200,850,780,1800,472.22,17222.2,1,1,0,1,1,1,1,1,0,0,1,1,320,95,0,HEARTBLEED
+2026-02-17 11:45:02,10.0.0.57,192.168.1.10,TCP,54371,443,16650,14350,860,790,1750,491.43,17914.3,1,1,0,1,1,1,1,1,0,0,1,1,325,96,0,HEARTBLEED
+2026-02-17 11:58:20,10.0.0.65,192.168.1.10,TCP,54519,443,24800,22500,1350,1250,650,1923.08,43076.9,1,1,0,1,1,1,1,1,0,0,1,1,785,235,0,HEARTBLEED

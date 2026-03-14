@@ -1,0 +1,10 @@
+{
+  "uptime": "99.98%",
+  "latency_ms_avg": 42,
+  "inference_counts": {
+    "phishing": 14205,
+    "spam": 8940,
+    "anomaly": 1024,
+    "malware": 5214
+  }
+}

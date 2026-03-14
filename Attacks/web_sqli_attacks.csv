@@ -1,0 +1,5 @@
+timestamp,src_ip,dst_ip,protocol,src_port,dst_port,bytes_in,bytes_out,packets_in,packets_out,flow_duration_ms,flow_packets_s,flow_bytes_s,is_urgent,is_fin,is_syn,is_rst,is_push,is_ack,is_uneq,is_no,is_mix,is_srv_rto,is_client_error,is_srv_error,is_srv_count_response,is_srv_count_error,attack_type
+2026-02-17 11:30:01,10.0.0.44,192.168.1.10,TCP,54360,80,7800,6200,420,380,2400,175.0,5750.0,1,1,0,1,1,1,1,0,0,1,0,0,210,62,0,WEB ATTACK - SQL INJECTION
+2026-02-17 11:30:02,10.0.0.45,192.168.1.10,TCP,54361,80,7850,6250,425,385,2350,180.85,5904.3,1,1,0,1,1,1,1,0,0,1,0,0,215,63,0,WEB ATTACK - SQL INJECTION
+2026-02-17 11:30:03,10.0.0.46,192.168.1.10,TCP,54362,80,7900,6300,430,390,2300,186.96,60608.7,1,1,0,1,1,1,1,0,0,1,0,0,220,64,0,WEB ATTACK - SQL INJECTION
+2026-02-17 11:39:55,10.0.0.55,192.168.1.10,TCP,54454,80,11850,10250,720,660,950,757.89,23736.8,1,1,0,1,1,1,1,0,0,1,0,0,485,142,0,WEB ATTACK - SQL INJECTION

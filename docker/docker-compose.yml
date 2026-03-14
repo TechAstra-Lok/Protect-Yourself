@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  fastapi:
+    build: ../backend
+    ports:
+      - "8000:8000"
+    environment:
+      - ML_MODEL_MODE=true
+  frontend:
+    build: ../frontend
+    ports:
+      - "3000:3000"
